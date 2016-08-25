@@ -1,2 +1,2 @@
 # playground
-Python PLayground
+Python Playground
