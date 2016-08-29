@@ -1,2 +1,4 @@
 # playground
-Python Playground
+*Python Playground*
+Welcome to my Python playground
+
